@@ -1,0 +1,69 @@
+#page {
+	width: 850px;
+	min-height: 1000px;
+	border: 1px solid black;
+	border-radius: 4px;
+	margin: auto;
+	padding-bottom: 10px;
+}
+h1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+h2 {
+	line-height: 40px;
+	margin: 0;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+h3 {
+	line-height: 40px;
+	margin: 0;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+}
+form {
+	line-height: 25px;
+	padding-left: 50px;
+}
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+input {
+	border-radius: 4px;
+}
+.birth {
+	width: 20px;
+}
+.move {
+	padding-left: 20px;
+}
+#info {
+	width: 700px;
+	height: 170px;
+	background-color: white;
+}
+#submit {
+	width: 90px;
+	height: 30px;
+	font-size: 20px;
+	border: 1px solid black;
+	background-color: white;
+	cursor: pointer;
+	float: right;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+#year {
+	width: 45px;
+}
+.text {
+	margin: 2.5px 0;
+}
+.red {
+	color: red;
+}
